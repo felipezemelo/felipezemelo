@@ -28,3 +28,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipezemelo/felipezemelo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipezemelo/felipezemelo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/felipezemelo/felipezemelo/output/github-snake.svg" />
+</picture>
