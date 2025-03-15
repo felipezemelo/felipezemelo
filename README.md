@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Felipe José de Medeiros Melo 
-
+im a Computer Science student
 <!--
 **felipezemelo/felipezemelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
